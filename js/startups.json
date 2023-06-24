@@ -1,0 +1,3555 @@
+[
+  {
+    "name": "Microns",
+    "description": "Microns.io is a marketplace to buy the best micro-startups without commission.",
+    "revenue": "$1.9k/Month",
+    "url": "https://www.microns.io",
+    "data": {
+      "launched in": "2021",
+      "no. of founders": "Solo-founder",
+      "location": "Ukraine",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "Marketplace",
+      "founder": "Ilya Novohatskyi",
+      "updated on": "Jun 19, 2023"
+    }
+  },
+  {
+    "name": "Table Backend",
+    "description": "The Ultimate Backend Solution for Small Projects including Marketplaces, Job Boards, Roadmaps, Todo Tasks, and Other Use Cases.",
+    "revenue": "$8k/Month",
+    "url": "https://tablebackend.com",
+    "data": {
+      "launched in": "2023",
+      "no. of founders": "Solo-founder",
+      "location": "Delaware, USA",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "Mohd Danish",
+      "updated on": "Jun 20, 2023"
+    }
+  },
+  {
+    "name": "Tag Parrot",
+    "description": "Turbo-charge your SEO. Automatically get your pages indexed by Google in about 48hrs.",
+    "revenue": "$556 MRR",
+    "url": "https://tagparrot.com",
+    "data": {
+      "launched in": "2023",
+      "no. of founders": "Solo-founder",
+      "location": "Buckingham, UK",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "SaaS",
+      "founder": "Chris Blakey",
+      "updated on": "Jun 20, 2023"
+    }
+  },
+  {
+    "name": "MyCollabs",
+    "description": "Find the right influencers and content creators, organize your workflow, and get suggestions on how to grow your business.",
+    "revenue": "",
+    "url": "https://mycollabs.io",
+    "data": {
+      "launched in": "2023",
+      "no. of founders": "Solo-founder",
+      "location": "Michigan, US",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "Marketplace",
+      "founder": "James Bake",
+      "updated on": "Jun 20, 2023"
+    }
+  },
+  {
+    "name": "Detailed",
+    "description": "SEO insights and analysis from tracking 2,000+ websites and revenue reports of digital media goliaths.",
+    "revenue": "",
+    "url": "https://detailed.com",
+    "data": {
+      "launched in": "2023",
+      "no. of founders": "Solo-founder",
+      "location": "Hong Kong",
+      "funding": "Bootstrapped",
+      "monetisation": "Consulting",
+      "commitment": "Full-time",
+      "category": "Blog",
+      "founder": "Glen Allsop",
+      "updated on": "Jun 20, 2023"
+    }
+  },
+  {
+    "name": "Indie Worldwide",
+    "description": "Product and marketing deep dives with bootstrapped startup founders from around the world. Learn the skills you need to build a startup to $0 to $1 million+ ARR.",
+    "revenue": "$5k/Month",
+    "url": "https://indieworldwide.com",
+    "data": {
+      "launched in": "2018",
+      "no. of founders": "Solo-founder",
+      "location": "100% Remote",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "Community",
+      "founder": "Anthony Castrio",
+      "updated on": "Jun 20, 2023"
+    }
+  },
+  {
+    "name": "LaunchList",
+    "description": "Validate your startup and get 10x more sign-ups with viral waitlist forms.",
+    "revenue": "$2.4k/Month",
+    "url": "https://getlaunchlist.com",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Solo-founder",
+      "location": "India",
+      "funding": "Bootstrapped",
+      "monetisation": "Sales & transactions",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "Navneet Singh",
+      "updated on": "Jun 20, 2023"
+    }
+  },
+  {
+    "name": "Oleg Coada",
+    "description": "Logo designer for startups, creative agencies, and fast-growing businesses.",
+    "revenue": "$3k/Month",
+    "url": "https://olegcoada.com",
+    "data": {
+      "launched in": "2016",
+      "no. of founders": "Solo-founder",
+      "location": "Moldova",
+      "funding": "Bootstrapped",
+      "monetisation": "Other",
+      "commitment": "Full-time",
+      "category": "Service",
+      "founder": "Oleg Coada",
+      "updated on": "Jun 19, 2023"
+    }
+  },
+  {
+    "name": "I18ncore",
+    "description": "I18ncore is a localisation as a service application which allows users to easily manage their i18n resources.",
+    "revenue": ">$500/Month",
+    "url": "http://i18ncore.com",
+    "data": {
+      "launched in": "2020",
+      "no. of founders": "Solo-founder",
+      "location": "Dublin, Ireland",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "",
+      "founder": "Evan Burbidge",
+      "updated on": "Jun 15, 2023"
+    }
+  },
+  {
+    "name": "SearchApi",
+    "description": "Scrape Google and other search engines with a real-time API.",
+    "revenue": "",
+    "url": "https://www.searchapi.io",
+    "data": {
+      "launched in": "2023",
+      "no. of founders": "Solo-founder",
+      "location": "New York, US",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "Mark Smith",
+      "updated on": "Jun 13, 2023"
+    }
+  },
+  {
+    "name": "Get Ramen",
+    "description": "A shortcut to ramen profits with business tips, breakdowns and marketing information. We transform the readers morning ramen into a bowl of success.",
+    "revenue": "",
+    "url": "https://www.getramen.co",
+    "data": {
+      "launched in": "2023",
+      "no. of founders": "Solo-founder",
+      "location": "Charlotte, NC",
+      "funding": "Bootstrapped",
+      "monetisation": "Advertising",
+      "commitment": "Full-time",
+      "category": "Newsletter",
+      "founder": "Lundin Matthews",
+      "updated on": "Jun 12, 2023"
+    }
+  },
+  {
+    "name": "AllCopy AI",
+    "description": "Generate original content like blog posts, marketing copy, SEO content, social media content, and job descriptions in seconds using AI.",
+    "revenue": "",
+    "url": "https://www.allcopy.ai",
+    "data": {
+      "launched in": "2023",
+      "no. of founders": "Solo-founder",
+      "location": "Amsterdam, The Netherlands",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "AI",
+      "founder": "Ryan Morrison",
+      "updated on": "Jun 19, 2023"
+    }
+  },
+  {
+    "name": "nugrow",
+    "description": "Finance & M&A consultancy for digital entrepreneurs & investors.",
+    "revenue": "$250k/Month",
+    "url": "http://nugrow.de",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Solo-founder",
+      "location": "Bochum, Germany",
+      "funding": "Bootstrapped",
+      "monetisation": "Consulting",
+      "commitment": "Full-time",
+      "category": "Consultancy",
+      "founder": "Sebastian Janus",
+      "updated on": "Jun 12, 2023"
+    }
+  },
+  {
+    "name": "Cloud Number",
+    "description": "Cloud Number is a virtual phone number service for startups and indie hackers to receive unlimited voicemail and SMS. Protect your privacy online by not sharing your personal address to handle support, domain registration, or signing up for online services.",
+    "revenue": "$300 MRR",
+    "url": "https://cloudnumber.app",
+    "data": {
+      "launched in": "2020",
+      "no. of founders": "Multiple",
+      "location": "Iowa, United States",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "App",
+      "founder": "Andy Brudtkuhl",
+      "updated on": "Jun 19, 2023"
+    }
+  },
+  {
+    "name": "aitools.fyi",
+    "description": "Find the best AI tools to help you build your next awesome project faster and easier. We have curated the best AI tools for you to use in your next project.",
+    "revenue": "$3.2k/Month",
+    "url": "https://aitools.fyi",
+    "data": {
+      "launched in": "2023",
+      "no. of founders": "Solo-founder",
+      "location": "Canada",
+      "funding": "Bootstrapped",
+      "monetisation": "Advertising",
+      "commitment": "Full-time",
+      "category": "Directory",
+      "founder": "Rishit Patel",
+      "updated on": "Jun 13, 2023"
+    }
+  },
+  {
+    "name": "Jimpl",
+    "description": "Uncover hidden metadata from any photo, find when & where it was taken.",
+    "revenue": "$900/Month",
+    "url": "https://jimpl.com",
+    "data": {
+      "launched in": "2011",
+      "no. of founders": "Solo-founder",
+      "location": "Romania",
+      "funding": "Bootstrapped",
+      "monetisation": "Advertising",
+      "commitment": "Side-project",
+      "category": "",
+      "founder": "Toni Manolache",
+      "updated on": "Jun 19, 2023"
+    }
+  },
+  {
+    "name": "FoxyApps",
+    "description": "Convert website visitors to leads using AI-powered apps.",
+    "revenue": "$500/Month",
+    "url": "https://www.foxyapps.ai",
+    "data": {
+      "launched in": "2023",
+      "no. of founders": "Multiple",
+      "location": "Brighton, England",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "SaaS",
+      "founder": "Peter Utekal, Ivan Homola",
+      "updated on": "Jun 12, 2023"
+    }
+  },
+  {
+    "name": "Easy Test Hub",
+    "description": "Creates content around at-home lab testing companies, recommendations for at-home test kits, and advice for performing at-home testing.",
+    "revenue": "",
+    "url": "https://easytesthub.com",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Solo-founder",
+      "location": "US",
+      "funding": "Bootstrapped",
+      "monetisation": "Commission",
+      "commitment": "Side-project",
+      "category": "Content site",
+      "founder": "Angela Lattibeaudiere",
+      "updated on": "Jun 13, 2023"
+    }
+  },
+  {
+    "name": "NexBot",
+    "description": "Empower your words with AI mastery: elevate your writing with our assistant extraordinaire",
+    "revenue": "$12.3k MRR",
+    "url": "https://nexbot.ai",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Multiple",
+      "location": "Philippines",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "AI",
+      "founder": "Oliver Martinez",
+      "updated on": "Jun 19, 2023"
+    }
+  },
+  {
+    "name": "Marketing Mega-Prompts",
+    "description": "A hand-crafted collection of 40 ChatGPT Mega-Prompts for Solopreneurs.",
+    "revenue": "$5k/Month",
+    "url": "https://www.makerbox.club",
+    "data": {
+      "launched in": "2023",
+      "no. of founders": "Multiple",
+      "location": "Kuala Lumpur, Malaysia",
+      "funding": "Bootstrapped",
+      "monetisation": "Sales & transactions",
+      "commitment": "Full-time",
+      "category": "Digital Product",
+      "founder": "Dan Kulkov",
+      "updated on": "Jun 19, 2023"
+    }
+  },
+  {
+    "name": "Capgo",
+    "description": "Continuous Delivery for Capacitor app. Ship live updates, bug fixes, content changes, features, and more without struggle with the App store review.",
+    "revenue": "$2.4k/Month",
+    "url": "https://capgo.app",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Solo-founder",
+      "location": "Portugal",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "Martin Donadieu",
+      "updated on": "Jun 13, 2023"
+    }
+  },
+  {
+    "name": "Zero to SaaS",
+    "description": "Start, build, & scale your SaaS.",
+    "revenue": "$2.5k/Month",
+    "url": "https://zerotosaascourse.com",
+    "data": {
+      "launched in": "2023",
+      "no. of founders": "Solo-founder",
+      "location": "Amsterdam, Netherlands",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "",
+      "founder": "Mike Strives",
+      "updated on": "May 31, 2023"
+    }
+  },
+  {
+    "name": "aiCarousels",
+    "description": "The fastest way to create visually engaging social media carousels.",
+    "revenue": "$200/Month",
+    "url": "https://www.aicarousels.com",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Solo-founder",
+      "location": "",
+      "funding": "",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "SaaS",
+      "founder": "Fernando Pessagno",
+      "updated on": "May 31, 2023"
+    }
+  },
+  {
+    "name": "PaletteBrain",
+    "description": "Unlock the power of ChatGPT across all your mac apps.",
+    "revenue": "$5k/Month",
+    "url": "https://palettebrain.com",
+    "data": {
+      "launched in": "2023",
+      "no. of founders": "Solo-founder",
+      "location": "Paris, France",
+      "funding": "Bootstrapped",
+      "monetisation": "Sales & transactions",
+      "commitment": "Side-project",
+      "category": "AI",
+      "founder": "Gwendal Brossard",
+      "updated on": "May 31, 2023"
+    }
+  },
+  {
+    "name": "Raizer",
+    "description": "Find the perfect investors and reach out to them using AI",
+    "revenue": "$4k/Month",
+    "url": "https://raizer.app",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Multiple",
+      "location": "US",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "Database",
+      "founder": "Khasan",
+      "updated on": "May 31, 2023"
+    }
+  },
+  {
+    "name": "Finta",
+    "description": "Finta automatically syncs your account balances, transactions, and investments to the tools you love so that you can manage your finances how you want, where you want.",
+    "revenue": "$350/Month",
+    "url": "https://finta.io",
+    "data": {
+      "launched in": "2021",
+      "no. of founders": "Solo-founder",
+      "location": "US",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "Finance",
+      "founder": "Taylor Facen",
+      "updated on": "Jun 19, 2023"
+    }
+  },
+  {
+    "name": "Beehiiv",
+    "description": "Launch, scale, and monetize your newsletter with a publishing platform built for growth.",
+    "revenue": "$200k MRR",
+    "url": "https://www.beehiiv.com",
+    "data": {
+      "launched in": "2021",
+      "no. of founders": "Multiple",
+      "location": "Los Angeles",
+      "funding": "Seed Funded",
+      "monetisation": "Subscriptions",
+      "commitment": "",
+      "category": "SaaS",
+      "founder": "Tyler Denk, Benjamin Hargett and Jake Hurd",
+      "updated on": "Jun 20, 2023"
+    }
+  },
+  {
+    "name": "Form App",
+    "description": "Create stunning forms that people love to fill out.",
+    "revenue": "$1.2k/Month",
+    "url": "https://formapp.so",
+    "data": {
+      "launched in": "2023",
+      "no. of founders": "Solo-founder",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "SaaS",
+      "founder": "Mohd Danish",
+      "updated on": "May 24, 2023"
+    }
+  },
+  {
+    "name": "Help Kit",
+    "description": "Turn your Notion docs into a hosted self-service knowledge base for your customers.",
+    "revenue": "$10k MRR",
+    "url": "https://www.helpkit.so",
+    "data": {
+      "launched in": "2021",
+      "no. of founders": "Solo-founder",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "SaaS",
+      "founder": "Dominik Sobe",
+      "updated on": "May 24, 2023"
+    }
+  },
+  {
+    "name": "Boilerplate",
+    "description": "Streamline collecting and tracking documentation requests (forms, files, e-signatures) with organized portals, automated reminders and real-time tracking.",
+    "revenue": "$5k/Month",
+    "url": "https://boilerplate.co",
+    "data": {
+      "launched in": "2019",
+      "no. of founders": "Multiple",
+      "location": "Philadelphia",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "",
+      "founder": "Brian Magrann",
+      "updated on": "May 24, 2023"
+    }
+  },
+  {
+    "name": "Von Neuman(n)",
+    "description": "Effortlessly design and collaborate on software architecture.",
+    "revenue": "",
+    "url": "https://vonneuman.com",
+    "data": {
+      "launched in": "2023",
+      "no. of founders": "Solo-founder",
+      "location": "Singapore",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "SaaS",
+      "founder": "Michael Davies",
+      "updated on": "May 24, 2023"
+    }
+  },
+  {
+    "name": "Assista",
+    "description": "Time tracking bot for Trello.",
+    "revenue": "$2k/Month",
+    "url": "https://assista.io",
+    "data": {
+      "launched in": "2019",
+      "no. of founders": "Multiple",
+      "location": "Bulgaria",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "Bot",
+      "founder": "Marin Petrov",
+      "updated on": "May 17, 2023"
+    }
+  },
+  {
+    "name": "Chatbase",
+    "description": "Custom ChatGPT for your website.",
+    "revenue": "$60.5k MRR",
+    "url": "https://www.chatbase.co",
+    "data": {
+      "launched in": "2023",
+      "no. of founders": "Solo-founder",
+      "location": "Toronto, Ontario",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "SaaS",
+      "founder": "Yasser",
+      "updated on": "Jun 20, 2023"
+    }
+  },
+  {
+    "name": "Zeruh",
+    "description": "Quickly set up a self-service knowledgebase platform for customers and employees.",
+    "revenue": "",
+    "url": "http://zeruh.com",
+    "data": {
+      "launched in": "2023",
+      "no. of founders": "Solo-founder",
+      "location": "Melbourne, Australia",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "SaaS",
+      "founder": "Areeb Majeed",
+      "updated on": "May 17, 2023"
+    }
+  },
+  {
+    "name": "Quuu",
+    "description": "Quuu curates the best content on auto-pilot.",
+    "revenue": "$61k MRR",
+    "url": "https://quuu.co",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Solo-founder",
+      "location": "United Kingdom",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "Daniel Kempe",
+      "updated on": "May 17, 2023"
+    }
+  },
+  {
+    "name": "Niche Site Metrics",
+    "description": "Database of 76,385 niche websites to help you find profitable, low-competition niches.",
+    "revenue": "$2.1k MRR",
+    "url": "https://nichesitemetrics.com",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Solo-founder",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "Database",
+      "founder": "Ian Nuttall",
+      "updated on": "May 17, 2023"
+    }
+  },
+  {
+    "name": "Receipt Cat",
+    "description": "Expense and income tracking for indie makers.",
+    "revenue": "",
+    "url": "https://www.receiptcat.com",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Solo-founder",
+      "location": "Nashville, TN",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "SaaS",
+      "founder": "Jordan Kennedy",
+      "updated on": "May 10, 2023"
+    }
+  },
+  {
+    "name": "Storista",
+    "description": "Boost sales with Instagram widgets.",
+    "revenue": "$1k/Month",
+    "url": "https://storista.io",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Solo-founder",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "SaaS",
+      "founder": "Irek Khasianov",
+      "updated on": "May 10, 2023"
+    }
+  },
+  {
+    "name": "Leave Me Alone",
+    "description": "See all of your newsletters in one place and unsubscribe from them with a single click.",
+    "revenue": "$6.7k MRR",
+    "url": "https://leavemealone.com",
+    "data": {
+      "launched in": "2019",
+      "no. of founders": "Multiple",
+      "location": "Mediterranean Sea",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "SaaS",
+      "founder": "James Ivings, Danielle",
+      "updated on": "Jun 13, 2023"
+    }
+  },
+  {
+    "name": "Twinr",
+    "description": "Convert any website to a mobile app in minutes.",
+    "revenue": "$6k/Month",
+    "url": "https://twinr.dev",
+    "data": {
+      "launched in": "2021",
+      "no. of founders": "Multiple",
+      "location": "Canada",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "Karan Parmar",
+      "updated on": "Jun 19, 2023"
+    }
+  },
+  {
+    "name": "Krater.ai",
+    "description": "Your all-in-one AI superapp.",
+    "revenue": "$250 MRR",
+    "url": "https://www.krater.ai",
+    "data": {
+      "launched in": "2023",
+      "no. of founders": "Solo-founder",
+      "location": "Copenhagen, DK",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "AI",
+      "founder": "Malte Prüser",
+      "updated on": "May 10, 2023"
+    }
+  },
+  {
+    "name": "Support Guy",
+    "description": "ChatGPT powered chatbot for 24/7 customer support.",
+    "revenue": "$15 MRR",
+    "url": "https://www.supportguy.co",
+    "data": {
+      "launched in": "2023",
+      "no. of founders": "Solo-founder",
+      "location": "India",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "AI",
+      "founder": "Shri Vatz",
+      "updated on": "May 3, 2023"
+    }
+  },
+  {
+    "name": "Mudita Comedy",
+    "description": "Funny marketing for businesses.",
+    "revenue": "$2.5k/Month",
+    "url": "http://muditacomedy.com",
+    "data": {
+      "launched in": "2023",
+      "no. of founders": "Solo-founder",
+      "location": "Sofia, Bulgaria",
+      "funding": "Bootstrapped",
+      "monetisation": "Sales & transactions",
+      "commitment": "Full-time",
+      "category": "Agency",
+      "founder": "Mathieu Boumal",
+      "updated on": "May 3, 2023"
+    }
+  },
+  {
+    "name": "TypingMind",
+    "description": "A better UI for ChatGPT.",
+    "revenue": "$10k/Month",
+    "url": "https://www.typingmind.com",
+    "data": {
+      "launched in": "2023",
+      "no. of founders": "Solo-founder",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "SaaS",
+      "founder": "Tony Dinh",
+      "updated on": "May 3, 2023"
+    }
+  },
+  {
+    "name": "Buttondown",
+    "description": "A simple email newsletter tool.",
+    "revenue": "$15k/Month",
+    "url": "https://buttondown.email",
+    "data": {
+      "launched in": "2016",
+      "no. of founders": "Solo-founder",
+      "location": "Richmond, Virginia",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "SaaS",
+      "founder": "Justin Duke",
+      "updated on": "Jun 20, 2023"
+    }
+  },
+  {
+    "name": "MoriseAI",
+    "description": "AI tools to help you grow your YouTube channel.",
+    "revenue": "$1.1k/Month",
+    "url": "https://morise.ai",
+    "data": {
+      "launched in": "",
+      "no. of founders": "",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "",
+      "founder": "Priyam Raj",
+      "updated on": "Apr 26, 2023"
+    }
+  },
+  {
+    "name": "Whiteout",
+    "description": "Easily markup text in your photos and pdfs.",
+    "revenue": "$400/MRR",
+    "url": "https://apps.apple.com",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Solo-founder",
+      "location": "United States",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "App",
+      "founder": "Jordan Zeleny",
+      "updated on": "May 3, 2023"
+    }
+  },
+  {
+    "name": "Serpjoy",
+    "description": "The simplest SEO platform you'll ever use.",
+    "revenue": "$125/Month",
+    "url": "https://serpjoy.com",
+    "data": {
+      "launched in": "2023",
+      "no. of founders": "Solo-founder",
+      "location": "London",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "SaaS",
+      "founder": "Travis Makes",
+      "updated on": "Apr 26, 2023"
+    }
+  },
+  {
+    "name": "Roast My Landing Page",
+    "description": "Turn more visitors into customers with a personalised landing page roast from a landing page expert.",
+    "revenue": "$6k/Month",
+    "url": "https://www.roastmylandingpage.com",
+    "data": {
+      "launched in": "2021",
+      "no. of founders": "Solo-founder",
+      "location": "London",
+      "funding": "Bootstrapped",
+      "monetisation": "Consulting",
+      "commitment": "Side-project",
+      "category": "Productized Service",
+      "founder": "Olly Meakings",
+      "updated on": "Apr 26, 2023"
+    }
+  },
+  {
+    "name": "Figura",
+    "description": "Hire pre-vetted product designers, ready to work on-demand.",
+    "revenue": "$7k/Month",
+    "url": "https://www.figura.digital",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Multiple",
+      "location": "Australia",
+      "funding": "",
+      "monetisation": "Sales & transactions",
+      "commitment": "Full-time",
+      "category": "Recruitment",
+      "founder": "Samee Hassan",
+      "updated on": "Apr 26, 2023"
+    }
+  },
+  {
+    "name": "Scanii",
+    "description": "Identify unsafe content in milliseconds.",
+    "revenue": "$35k/Month",
+    "url": "https://www.scanii.com",
+    "data": {
+      "launched in": "2011",
+      "no. of founders": "Solo-founder",
+      "location": "PHX, Arizona",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "API/SaaS",
+      "founder": "Rafael Ferreira",
+      "updated on": "Apr 19, 2023"
+    }
+  },
+  {
+    "name": "Movevirtual",
+    "description": "Movevirtual matches you with off-shore growth assistants for your business.",
+    "revenue": "$9.3k MRR",
+    "url": "https://www.movevirtual.co",
+    "data": {
+      "launched in": "2023",
+      "no. of founders": "Multiple",
+      "location": "United States",
+      "funding": "Bootstrapped",
+      "monetisation": "Consulting",
+      "commitment": "Full-time",
+      "category": "Recruitment",
+      "founder": "Nick C",
+      "updated on": "Apr 19, 2023"
+    }
+  },
+  {
+    "name": "Webmagic",
+    "description": "Article summarizer with AI.",
+    "revenue": "$700/Month",
+    "url": "https://www.magicapps.ai",
+    "data": {
+      "launched in": "2023",
+      "no. of founders": "Solo-founder",
+      "location": "Netherlands",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "SaaS",
+      "founder": "Ryan Morrison",
+      "updated on": "Apr 19, 2023"
+    }
+  },
+  {
+    "name": "SpeechGen",
+    "description": "The ultimate text-to-speech solution offering life-like voices, global language support, and fast conversions.",
+    "revenue": "$10k/Month",
+    "url": "https://speechgen.io",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Multiple",
+      "location": "Hong Kong",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "",
+      "founder": "Alex Rocket",
+      "updated on": "Apr 19, 2023"
+    }
+  },
+  {
+    "name": "Serverless SaaS",
+    "description": "A premium SaaS boilerplate for Next.js.",
+    "revenue": "$1.5k/Month",
+    "url": "https://serverless.page",
+    "data": {
+      "launched in": "2019",
+      "no. of founders": "Solo-founder",
+      "location": "The Netherlands",
+      "funding": "Bootstrapped",
+      "monetisation": "Sales & transactions",
+      "commitment": "Side-project",
+      "category": "",
+      "founder": "Jake Prins",
+      "updated on": "Apr 12, 2023"
+    }
+  },
+  {
+    "name": "TextSniper",
+    "description": "Extract text from images and other digital documents in seconds.",
+    "revenue": "$2k MRR",
+    "url": "https://textsniper.app",
+    "data": {
+      "launched in": "2020",
+      "no. of founders": "Multiple",
+      "location": "Riga, LV",
+      "funding": "Bootstrapped",
+      "monetisation": "Sales & transactions",
+      "commitment": "Full-time",
+      "category": "App",
+      "founder": "Valerijis Boguckis",
+      "updated on": "Apr 12, 2023"
+    }
+  },
+  {
+    "name": "Headlessforms",
+    "description": "Build high-quality HTML forms in minutes.",
+    "revenue": "$3k/Month",
+    "url": "https://www.headlessforms.cloud",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Solo-founder",
+      "location": "Zurich, Switzerland",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "Fabio Duo",
+      "updated on": "Apr 12, 2023"
+    }
+  },
+  {
+    "name": "FormWise",
+    "description": "Build AI tools using your favorite GPT prompts.",
+    "revenue": "$1.3k/Month",
+    "url": "https://www.formwise.ai",
+    "data": {
+      "launched in": "2023",
+      "no. of founders": "Multiple",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "AI",
+      "founder": "Javi",
+      "updated on": "Apr 12, 2023"
+    }
+  },
+  {
+    "name": "Podsqueeze",
+    "description": "Generate shownotes, timestamps, newsletters and more for your podcast.",
+    "revenue": "$2k MRR",
+    "url": "https://podsqueeze.com",
+    "data": {
+      "launched in": "2023",
+      "no. of founders": "Multiple",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "Tiago, João Amaro",
+      "updated on": "Apr 5, 2023"
+    }
+  },
+  {
+    "name": "CraftMyPDF",
+    "description": "Design and generate pixel-perfect PDF documents in minutes.",
+    "revenue": "$15k MRR",
+    "url": "https://craftmypdf.com",
+    "data": {
+      "launched in": "2020",
+      "no. of founders": "Solo-founder",
+      "location": "Singapore",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "Jacky Tan",
+      "updated on": "Apr 5, 2023"
+    }
+  },
+  {
+    "name": "MrScraper",
+    "description": "A visual web scraper to extract data, easily and without getting blocked.",
+    "revenue": "$200/Month",
+    "url": "https://mrscraper.com",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Solo-founder",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "SaaS",
+      "founder": "Kai",
+      "updated on": "Apr 5, 2023"
+    }
+  },
+  {
+    "name": "KyteSpace",
+    "description": "KyteSpace is a platform that allows startups to effortlessly connect with their audience directly with newsletter sponsorships. We have over 100+ newsletters with a combined 4M+ subscribers spanning dozens of topics. Discover, contact newsletters directly on our platform, and meet your customers directly in their inboxes.",
+    "revenue": "",
+    "url": "https://www.kytespace.co",
+    "data": {
+      "launched in": "2023",
+      "no. of founders": "Solo-founder",
+      "location": "United States",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "Marketplace",
+      "founder": "Khoa Bui",
+      "updated on": "Apr 5, 2023"
+    }
+  },
+  {
+    "name": "Superus",
+    "description": "Turn complex ideas into beautiful, easy-to-understand visual content. Use the map-like canvas to organize your thoughts and ideas, and add links between pieces of information to create a supper engaging user experience for your readers.",
+    "revenue": "$1k/Month",
+    "url": "https://www.superusapp.com",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Multiple",
+      "location": "Singapore",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "",
+      "founder": "Victor Zhang",
+      "updated on": "Apr 5, 2023"
+    }
+  },
+  {
+    "name": "Satellitor",
+    "description": "Satellitor automatically creates, publishes and ranks SEO optimized content for your blog.",
+    "revenue": "$1.7k MRR",
+    "url": "https://satellitor.com",
+    "data": {
+      "launched in": "2023",
+      "no. of founders": "Solo-founder",
+      "location": "New York",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "AI",
+      "founder": "Paul Grisel",
+      "updated on": "Mar 29, 2023"
+    }
+  },
+  {
+    "name": "Inboxs",
+    "description": "Conversion-focused Twitter DMs Inbox.",
+    "revenue": "$500 MRR",
+    "url": "https://www.inboxs.io",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Solo-founder",
+      "location": "Italy",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "SaaS",
+      "founder": "Luca Restagno",
+      "updated on": "Mar 29, 2023"
+    }
+  },
+  {
+    "name": "Famewall",
+    "description": "Collect & display customer testimonials on your website.",
+    "revenue": "$400 MRR",
+    "url": "https://famewall.io",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Solo-founder",
+      "location": "India",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "SaaS",
+      "founder": "Goutham Jay",
+      "updated on": "Mar 29, 2023"
+    }
+  },
+  {
+    "name": "Data Fetcher",
+    "description": "Connect Airtable to any application or API with no-code.",
+    "revenue": "$17.3k MRR",
+    "url": "https://datafetcher.com",
+    "data": {
+      "launched in": "2020",
+      "no. of founders": "Solo-founder",
+      "location": "London, UK",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "Andy Cloke",
+      "updated on": "Mar 29, 2023"
+    }
+  },
+  {
+    "name": "Sidebird",
+    "description": "Turn any Notion page into a Twitter thread automatically. Boost your engagement with auto-retweets and keep a clean feed.",
+    "revenue": "$700 MRR",
+    "url": "https://sidebird.io",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Solo-founder",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "SaaS",
+      "founder": "Lilian",
+      "updated on": "Mar 22, 2023"
+    }
+  },
+  {
+    "name": "BudgetSheet",
+    "description": "The easiest way to automatically import your real bank account data into Google Sheets.",
+    "revenue": "$2.1k MRR",
+    "url": "https://www.budgetsheet.net",
+    "data": {
+      "launched in": "2020",
+      "no. of founders": "Solo-founder",
+      "location": "Oklahoma City, OK",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "Add-on",
+      "founder": "Vance Lucas",
+      "updated on": "Mar 22, 2023"
+    }
+  },
+  {
+    "name": "Una Vida Online",
+    "description": "We publish content, create tools and manage a community for bloggers and affiliate marketers.",
+    "revenue": "$18k/Month",
+    "url": "https://unavidaonline.com",
+    "data": {
+      "launched in": "2018",
+      "no. of founders": "Solo-founder",
+      "location": "Andorra",
+      "funding": "Bootstrapped",
+      "monetisation": "Sales & transactions",
+      "commitment": "Full-time",
+      "category": "Content site",
+      "founder": "Pau Forner",
+      "updated on": "Mar 22, 2023"
+    }
+  },
+  {
+    "name": "Reflect",
+    "description": "Reflect is a note taking app that helps you keep track of your thoughts, books, and meetings.",
+    "revenue": "$21.5k MRR",
+    "url": "https://reflect.app",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Solo-founder",
+      "location": "Florida, United States",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "App",
+      "founder": "Alex MacCaw",
+      "updated on": "Mar 22, 2023"
+    }
+  },
+  {
+    "name": "GymBuddy.ai",
+    "description": "A.I powered workout and training planning platform.",
+    "revenue": "$150/Month",
+    "url": "https://www.gymbuddy.ai",
+    "data": {
+      "launched in": "2023",
+      "no. of founders": "Solo-founder",
+      "location": "Ireland",
+      "funding": "Bootstrapped",
+      "monetisation": "Sales & transactions",
+      "commitment": "Full-time",
+      "category": "Mobile App",
+      "founder": "Evan Burbidge",
+      "updated on": "Mar 15, 2023"
+    }
+  },
+  {
+    "name": "Pika.style",
+    "description": "Quickly create beautiful website and device mockups from a screenshot.",
+    "revenue": "$2k MRR",
+    "url": "https://pika.style",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Solo-founder",
+      "location": "India",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "Design",
+      "founder": "Rishi",
+      "updated on": "Mar 15, 2023"
+    }
+  },
+  {
+    "name": "Tailscan",
+    "description": "Build, design and debug your Tailwind website visually, right in the browser.",
+    "revenue": "$500 MRR",
+    "url": "https://tailscan.com",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Solo-founder",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "SaaS",
+      "founder": "Erwin",
+      "updated on": "Mar 15, 2023"
+    }
+  },
+  {
+    "name": "GrowthAssistant",
+    "description": "Elite offshore talent to support your Marketing team.",
+    "revenue": "$583k/Month",
+    "url": "https://growthassistant.com",
+    "data": {
+      "launched in": "2021",
+      "no. of founders": "Multiple",
+      "location": "Chicago, IL",
+      "funding": "Bootstrapped",
+      "monetisation": "",
+      "commitment": "Full-time",
+      "category": "Recruitment",
+      "founder": "Adriane Schwager, Jesse Pujji",
+      "updated on": "Mar 15, 2023"
+    }
+  },
+  {
+    "name": "Simple Analytics",
+    "description": "The privacy-first Google Analytics alternative.",
+    "revenue": "$16.9k MRR",
+    "url": "https://www.simpleanalytics.com",
+    "data": {
+      "launched in": "2018",
+      "no. of founders": "Solo-founder",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "Analytics",
+      "founder": "Adriaan van Rossum",
+      "updated on": "Mar 15, 2023"
+    }
+  },
+  {
+    "name": "Mentionitis",
+    "description": "Chrome a extension that provides in-page searching, link bookmarking and social media link previews all without having to open a new tab.",
+    "revenue": "",
+    "url": "https://mentionitis.com",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Solo-founder",
+      "location": "Gaborone, Botswana",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "Chrome Extension",
+      "founder": "Isaac Otim",
+      "updated on": "Mar 8, 2023"
+    }
+  },
+  {
+    "name": "Tiiny Host",
+    "description": "The simplest way to host & share your web project.",
+    "revenue": "$10.5k MRR",
+    "url": "https://tiiny.host",
+    "data": {
+      "launched in": "2019",
+      "no. of founders": "Solo-founder",
+      "location": "London, UK",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "Philip Baretto",
+      "updated on": "Mar 8, 2023"
+    }
+  },
+  {
+    "name": "Hivoe",
+    "description": "Qualified Twitter leads in your inbox — on autopilot.",
+    "revenue": "$1,700 MRR",
+    "url": "https://www.hivoe.com",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Solo-founder",
+      "location": "Italy",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "SaaS",
+      "founder": "Luca Restagno",
+      "updated on": "Mar 8, 2023"
+    }
+  },
+  {
+    "name": "sags.digital",
+    "description": "Record, share and discuss. Communicate better with webcam/screen-videos.",
+    "revenue": "",
+    "url": "https://sags.digital",
+    "data": {
+      "launched in": "2023",
+      "no. of founders": "Multiple",
+      "location": "Remscheid, Germany",
+      "funding": "",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "Julian Richter",
+      "updated on": "Mar 8, 2023"
+    }
+  },
+  {
+    "name": "Dopely",
+    "description": "Tools, resources and inspirations for creatives.",
+    "revenue": "$5k MRR",
+    "url": "https://dopely.top",
+    "data": {
+      "launched in": "2020",
+      "no. of founders": "Solo-founder",
+      "location": "Canada",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "",
+      "founder": "Mehdi Khoda",
+      "updated on": "Mar 1, 2023"
+    }
+  },
+  {
+    "name": "Ktool",
+    "description": "Effortlessly send web articles to your Kindle and boost your focus.",
+    "revenue": "$700/Month",
+    "url": "https://ktool.io",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Solo-founder",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "App",
+      "founder": "Daniel Nguyen",
+      "updated on": "Mar 1, 2023"
+    }
+  },
+  {
+    "name": "MemeMorph",
+    "description": "Turn yourself into all your favourite memes using AI.",
+    "revenue": "$1k/Month",
+    "url": "https://www.mememorph.com",
+    "data": {
+      "launched in": "2023",
+      "no. of founders": "Multiple",
+      "location": "Netherlands",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "AI",
+      "founder": "Danny Postma, David Lo Dico",
+      "updated on": "Mar 1, 2023"
+    }
+  },
+  {
+    "name": "Aqueduct",
+    "description": "Aqueduct allows you to deploy and manage machine learning on your cloud infrastructure. Our open-source project has a simple Python API to define ML workflows, allows you to deploy that workflow onto your cloud infrastructure, and enables you to validate the quality of your models & predictions.",
+    "revenue": "",
+    "url": "https://aqueducthq.com",
+    "data": {
+      "launched in": "2021",
+      "no. of founders": "Multiple",
+      "location": "San Francisco",
+      "funding": "VC Funded",
+      "monetisation": "Free",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "Vikram Sreekanti",
+      "updated on": "Feb 28, 2023"
+    }
+  },
+  {
+    "name": "Victa",
+    "description": "Victa is the first AI gaming running app, maintaining user's journey to their personal results by merging fitness with an addictive game & series and keeping them motivated by adding an extra layer of purpose.",
+    "revenue": "",
+    "url": "https://apps.apple.com",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Solo-founder",
+      "location": "Yerevan, Armenia",
+      "funding": "Other",
+      "monetisation": "Free",
+      "commitment": "Full-time",
+      "category": "AI",
+      "founder": "Aleksandr Karbankov",
+      "updated on": "Mar 8, 2023"
+    }
+  },
+  {
+    "name": "Superblog",
+    "description": "Blazing fast alternative to WordPress and Medium blogs. Auto-optimized for SEO and speed. Zero setup and maintenance.",
+    "revenue": "$3k/Month",
+    "url": "https://superblog.ai",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Solo-founder",
+      "location": "India",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "Sai Krishna",
+      "updated on": "Jun 13, 2023"
+    }
+  },
+  {
+    "name": "ResolveAI",
+    "description": "Conversational AI chatbots for Customer Service.",
+    "revenue": "$1.2k/Month",
+    "url": "https://resolveai.co",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Solo-founder",
+      "location": "Toronto, Canada",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "Rem Kim",
+      "updated on": "Jun 19, 2023"
+    }
+  },
+  {
+    "name": "Roastd",
+    "description": "Get your landing page roasted for $99.",
+    "revenue": "$1k/Month",
+    "url": "https://www.roastd.io",
+    "data": {
+      "launched in": "2023",
+      "no. of founders": "Solo-founder",
+      "location": "Cyprus",
+      "funding": "Bootstrapped",
+      "monetisation": "Consulting",
+      "commitment": "Side-project",
+      "category": "Productized Service",
+      "founder": "Ollie Efez",
+      "updated on": "May 31, 2023"
+    }
+  },
+  {
+    "name": "Trackdesk",
+    "description": "A smarter affiliate tracking platform.",
+    "revenue": "",
+    "url": "https://trackdesk.com",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Multiple",
+      "location": "Prague, CZ",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "",
+      "category": "Affiliate Marketing",
+      "founder": "Martin Demiger",
+      "updated on": "Mar 8, 2023"
+    }
+  },
+  {
+    "name": "PhotoAI",
+    "description": "The first AI photographer.",
+    "revenue": "$5.4k MRR",
+    "url": "https://photoai.io",
+    "data": {
+      "launched in": "2023",
+      "no. of founders": "Solo-founder",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "AI",
+      "founder": "Pieter Levels",
+      "updated on": "Feb 15, 2023"
+    }
+  },
+  {
+    "name": "They Got Acquired",
+    "description": "Media company that helps entrepreneurs sell their business, with a focus on online companies that sell for 6, 7 or low-8 figures.",
+    "revenue": "$9k/Month",
+    "url": "https://sparklp.co",
+    "data": {
+      "launched in": "2021",
+      "no. of founders": "Solo-founder",
+      "location": "West Virginia, US",
+      "funding": "Bootstrapped",
+      "monetisation": "Sales & transactions",
+      "commitment": "Full-time",
+      "category": "Media",
+      "founder": "Alexis Grant",
+      "updated on": "Feb 15, 2023"
+    }
+  },
+  {
+    "name": "ScreenshotOne",
+    "description": "Turn websites into screenshots via API.",
+    "revenue": "$200/Month",
+    "url": "https://screenshotone.com",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Solo-founder",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "Dmytro Krasun",
+      "updated on": "Feb 15, 2023"
+    }
+  },
+  {
+    "name": "Changes.page",
+    "description": "Effortlessly create and publish changelogs, engage customers and keep them informed of the latest news from your business.",
+    "revenue": "",
+    "url": "https://changes.page",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Solo-founder",
+      "location": "Sydney, AU",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "SaaS",
+      "founder": "Arjun Komath",
+      "updated on": "Feb 15, 2023"
+    }
+  },
+  {
+    "name": "SymGym",
+    "description": "SymGym makes your workouts fun by combining serious games with serious exercise.",
+    "revenue": "",
+    "url": "https://www.symgym.fit",
+    "data": {
+      "launched in": "2021",
+      "no. of founders": "Multiple",
+      "location": "Chicago, IL USA",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "Fitness",
+      "founder": "Robert Quinn",
+      "updated on": "Feb 15, 2023"
+    }
+  },
+  {
+    "name": "Make Do",
+    "description": "We help ambitious brands to bring their idea to life through the power of design.",
+    "revenue": "$6k/Month",
+    "url": "https://makedo.design",
+    "data": {
+      "launched in": "2020",
+      "no. of founders": "Solo-founder",
+      "location": "London",
+      "funding": "Bootstrapped",
+      "monetisation": "Consulting",
+      "commitment": "Full-time",
+      "category": "Agency",
+      "founder": "Anton Wade",
+      "updated on": "Feb 15, 2023"
+    }
+  },
+  {
+    "name": "Tweetmonk",
+    "description": "Write and schedule tweets that engage your audience so you can grow faster on Twitter.",
+    "revenue": "$100/Month",
+    "url": "https://tweetmonk.com",
+    "data": {
+      "launched in": "2023",
+      "no. of founders": "Solo-founder",
+      "location": "Pune, India",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "Chetan Patel",
+      "updated on": "Feb 7, 2023"
+    }
+  },
+  {
+    "name": "Choosi",
+    "description": "A personalized matchmaking service that connects the right agents with the right clients.",
+    "revenue": "",
+    "url": "http://bechoosi.com",
+    "data": {
+      "launched in": "2023",
+      "no. of founders": "Solo-founder",
+      "location": "Los Angeles, California",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "",
+      "founder": "Sarah Vandersluis",
+      "updated on": "Feb 7, 2023"
+    }
+  },
+  {
+    "name": "Curiosity",
+    "description": "Search tool that lets you easily access all your files, emails, and apps in one place.",
+    "revenue": "$35k/Month",
+    "url": "https://curiosity.ai",
+    "data": {
+      "launched in": "2018",
+      "no. of founders": "Multiple",
+      "location": "Germany",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "AI",
+      "founder": "Rafael Oliveira, Leon Zucchini",
+      "updated on": "Feb 15, 2023"
+    }
+  },
+  {
+    "name": "Generalist World",
+    "description": "Community-powered platform for generalists, and companies hiring their early teams.",
+    "revenue": "$1.7k/Month",
+    "url": "https://www.generalist.world",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Solo-founder",
+      "location": "Isle of Raasay",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "Community",
+      "founder": "Milly Tamati",
+      "updated on": "Feb 1, 2023"
+    }
+  },
+  {
+    "name": "Stacked Marketer",
+    "description": "Carefully curated digital marketing news, tech, and actionable advice, delivered fresh every weekday. Read by 50,000+ marketers.",
+    "revenue": "$57k/Month",
+    "url": "https://sparklp.co",
+    "data": {
+      "launched in": "2018",
+      "no. of founders": "Solo-founder",
+      "location": "Vienna, Austria",
+      "funding": "Bootstrapped",
+      "monetisation": "Advertising",
+      "commitment": "Full-time",
+      "category": "Newsletter",
+      "founder": "Emanuel Cinca",
+      "updated on": "Feb 1, 2023"
+    }
+  },
+  {
+    "name": "Saaspo",
+    "description": "Curated collection of the best SaaS websites on the web",
+    "revenue": "",
+    "url": "https://www.saaspo.com",
+    "data": {
+      "launched in": "2023",
+      "no. of founders": "Solo-founder",
+      "location": "London",
+      "funding": "Bootstrapped",
+      "monetisation": "Free",
+      "commitment": "Side-project",
+      "category": "Directory",
+      "founder": "Andy Hooke",
+      "updated on": "Jan 31, 2023"
+    }
+  },
+  {
+    "name": "shuddl",
+    "description": "A digital platform for businesses to create a new revenue stream and reduce CO2 when shipping cargo.",
+    "revenue": "$850k/Month",
+    "url": "http://shuddl.io",
+    "data": {
+      "launched in": "2023",
+      "no. of founders": "Solo-founder",
+      "location": "San Diego, CA USA",
+      "funding": "Bootstrapped",
+      "monetisation": "Sales & transactions",
+      "commitment": "Full-time",
+      "category": "",
+      "founder": "Spencer Steliga",
+      "updated on": "Jun 7, 2023"
+    }
+  },
+  {
+    "name": "Internet Is Beautiful",
+    "description": "Discover the most interesting, useful and awesome websites from around the web.",
+    "revenue": "$800/Month",
+    "url": "https://www.internetisbeautiful.co",
+    "data": {
+      "launched in": "2023",
+      "no. of founders": "Solo-founder",
+      "location": "UK",
+      "funding": "Bootstrapped",
+      "monetisation": "Advertising",
+      "commitment": "Side-project",
+      "category": "Newsletter",
+      "founder": "Jaisal Rathee",
+      "updated on": "Mar 8, 2023"
+    }
+  },
+  {
+    "name": "nocode.gallery",
+    "description": "Collection of stunning websites made with no-code to inspire you.",
+    "revenue": "",
+    "url": "https://nocode.gallery",
+    "data": {
+      "launched in": "2023",
+      "no. of founders": "Multiple",
+      "location": "Amsterdam",
+      "funding": "Bootstrapped",
+      "monetisation": "Free",
+      "commitment": "Full-time",
+      "category": "",
+      "founder": "Chris Jayden",
+      "updated on": "Jun 20, 2023"
+    }
+  },
+  {
+    "name": "WideBundle",
+    "description": "Shopify app that helps you create offers, bundles and quantity breaks on your products.",
+    "revenue": "$40k/Month",
+    "url": "https://en.widebundle.com",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Solo-founder",
+      "location": "Paris, France",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "Shopify App",
+      "founder": "Mat De Sousa",
+      "updated on": "Jan 25, 2023"
+    }
+  },
+  {
+    "name": "RemotelyTalents",
+    "description": "Remote job staffing agency. Hire talented offshore staff that cost 40%-80% less than EU or US-based equivalents.",
+    "revenue": "$16k/Month",
+    "url": "https://www.remotelytalents.com",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Solo-founder",
+      "location": "Lithuania",
+      "funding": "Bootstrapped",
+      "monetisation": "Other",
+      "commitment": "",
+      "category": "Productized Service",
+      "founder": "Adomas Pranevicius",
+      "updated on": "Feb 7, 2023"
+    }
+  },
+  {
+    "name": "Fernand",
+    "description": "The fastest, calmest customer support for SaaS.",
+    "revenue": "$400/Month",
+    "url": "https://getfernand.com",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Multiple",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "Cyril",
+      "updated on": "Mar 15, 2023"
+    }
+  },
+  {
+    "name": "Jenni.ai",
+    "description": "Supercharge your writing with the most advanced AI writing assistant.",
+    "revenue": "$50k/Month",
+    "url": "https://jenni.ai",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Multiple",
+      "location": "Seattle",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "AI Writer",
+      "founder": "David Park",
+      "updated on": "Jan 18, 2023"
+    }
+  },
+  {
+    "name": "RanchWork",
+    "description": "Ranching & outdoor focused job board.",
+    "revenue": "$7.3k/Month",
+    "url": "https://www.ranchwork.com",
+    "data": {
+      "launched in": "2014",
+      "no. of founders": "Solo-founder",
+      "location": "USA",
+      "funding": "Bootstrapped",
+      "monetisation": "Advertising",
+      "commitment": "Side-project",
+      "category": "Job Board",
+      "founder": "Peter Askew",
+      "updated on": "Jan 18, 2023"
+    }
+  },
+  {
+    "name": "No-Code miniAccelerator",
+    "description": "Your go-to program if you want to learn how to build with no-code and make money with it.",
+    "revenue": "",
+    "url": "https://bit.ly",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Multiple",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "Other",
+      "commitment": "Full-time",
+      "category": "Accelerator",
+      "founder": "Kārlis Kivlenieks",
+      "updated on": "Feb 15, 2023"
+    }
+  },
+  {
+    "name": "Cmd J",
+    "description": "Chrome extension that makes it easy to use ChatGPT without any extra steps or tab switching.",
+    "revenue": "",
+    "url": "https://chrome.google.com",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Multiple",
+      "location": "London, UK",
+      "funding": "Bootstrapped",
+      "monetisation": "Free",
+      "commitment": "Side-project",
+      "category": "Browser Extension",
+      "founder": "Yurii Rebryk",
+      "updated on": "Jan 18, 2023"
+    }
+  },
+  {
+    "name": "Pixboost",
+    "description": "Optimize your image performance with Pixboost Image CDN. Real-time image processing and performance optimization.",
+    "revenue": "$5k/Month",
+    "url": "https://pixboost.com",
+    "data": {
+      "launched in": "2018",
+      "no. of founders": "Multiple",
+      "location": "Melbourne, Australia",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "",
+      "founder": "Dmitry Pokidov",
+      "updated on": "Jan 18, 2023"
+    }
+  },
+  {
+    "name": "Closet Tools",
+    "description": "Browser extension that helps you make more sales, get more followers, and automatically share items on Poshmark.",
+    "revenue": "$20k/Month",
+    "url": "https://closet.tools",
+    "data": {
+      "launched in": "2018",
+      "no. of founders": "Solo-founder",
+      "location": "Rochester, New York",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "Browser Extension",
+      "founder": "Jordan O'Connor",
+      "updated on": "Jan 11, 2023"
+    }
+  },
+  {
+    "name": "WorkTimes",
+    "description": "Hours tracker and overtime calculation for iOS. Easily track and manage your hours worked and see your overtime at a glance.",
+    "revenue": "$3.3k/Month",
+    "url": "https://worktimes.app",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Solo-founder",
+      "location": "Germany",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "Mobile app",
+      "founder": "Florian Mielke",
+      "updated on": "Jan 11, 2023"
+    }
+  },
+  {
+    "name": "Lumio.pics",
+    "description": "Get social with your photos, earn rewards, and win cash.",
+    "revenue": "",
+    "url": "http://lumio.pics",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Solo-founder",
+      "location": "USA",
+      "funding": "Bootstrapped",
+      "monetisation": "Sales & transactions",
+      "commitment": "Full-time",
+      "category": "",
+      "founder": "Jason Brorby",
+      "updated on": "Jan 11, 2023"
+    }
+  },
+  {
+    "name": "ZoZo",
+    "description": "ZoZo allows you to create keyboard shortcuts for the photos, links or files you need to share at any time.",
+    "revenue": "$27/Month",
+    "url": "https://www.zozoapp.co",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Solo-founder",
+      "location": "Baltimore, MD",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "Mobile app",
+      "founder": "AJ Picard",
+      "updated on": "Jan 11, 2023"
+    }
+  },
+  {
+    "name": "ai2sql",
+    "description": "AI SQL query builder for non-engineers.",
+    "revenue": "$911/Month",
+    "url": "https://www.ai2sql.io",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Solo-founder",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "Micro-SaaS",
+      "founder": "Mustafa Ergisi",
+      "updated on": "Jan 4, 2023"
+    }
+  },
+  {
+    "name": "Tolt",
+    "description": "Free affiliate marketing software for SaaS startups.",
+    "revenue": "",
+    "url": "https://tolt.io",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Multiple",
+      "location": "San Francisco",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "Daniel Gjokaj",
+      "updated on": "Jan 4, 2023"
+    }
+  },
+  {
+    "name": "My Good Week",
+    "description": "Automatically track your habits and goals through your calendar.",
+    "revenue": "$150/Month",
+    "url": "https://mygoodweek.com",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Multiple",
+      "location": "Tokyo, Japan",
+      "funding": "Other",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "Web App",
+      "founder": "Daniel Bonifaz",
+      "updated on": "Jan 4, 2023"
+    }
+  },
+  {
+    "name": "eBiz Facts",
+    "description": "We research and review tools, platforms and resources for earning a living online.",
+    "revenue": "$17k/Month",
+    "url": "https://ebizfacts.com",
+    "data": {
+      "launched in": "2018",
+      "no. of founders": "Solo-founder",
+      "location": "Andorra",
+      "funding": "Bootstrapped",
+      "monetisation": "Commission",
+      "commitment": "Full-time",
+      "category": "Newsletter",
+      "founder": "Niall Doherty",
+      "updated on": "Jan 4, 2023"
+    }
+  },
+  {
+    "name": "SEOmatic",
+    "description": "Generate high quality AI-written content at scale. Create thousands of Landing Pages or Blog Posts with Programmatic SEO and AI.",
+    "revenue": "$200/Month",
+    "url": "https://seomatic.ai",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Solo-founder",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "SaaS",
+      "founder": "Minh Pham",
+      "updated on": "Dec 21, 2022"
+    }
+  },
+  {
+    "name": "Buildearn OS",
+    "description": "The ultimate system to build & grow your side business without excuses. Build, manage, launch and gradually grow a 5-figure side business.",
+    "revenue": "$1k/Month",
+    "url": "https://buildearn.co",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Solo-founder",
+      "location": "France",
+      "funding": "Bootstrapped",
+      "monetisation": "Sales & transactions",
+      "commitment": "Side-project",
+      "category": "Digital Product",
+      "founder": "Victor Grandchamp",
+      "updated on": "Dec 21, 2022"
+    }
+  },
+  {
+    "name": "StockHawk",
+    "description": "Track your portfolios the easy way. Get a simple unbiased daily update with performance and the most important news and analysis for your stocks.",
+    "revenue": "",
+    "url": "https://www.stockhawk.io",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Solo-founder",
+      "location": "Copenhagen, Denmark",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "Finance",
+      "founder": "Nicolai Wilder",
+      "updated on": "Dec 21, 2022"
+    }
+  },
+  {
+    "name": "Repeat.dev",
+    "description": "Create a webhook, schedule a task, handle emails, generate pdf, and deploy in seconds.",
+    "revenue": "$25/Month",
+    "url": "https://repeat.dev",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Solo-founder",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "SaaS",
+      "founder": "Adam Janiš",
+      "updated on": "Dec 15, 2022"
+    }
+  },
+  {
+    "name": "nuTab",
+    "description": "The most productive new tab page. Private and fast markdown notes, handy bookmarks bar, and dark mode.",
+    "revenue": "",
+    "url": "https://nutab.co",
+    "data": {
+      "launched in": "2020",
+      "no. of founders": "Solo-founder",
+      "location": "Prague, Czechia",
+      "funding": "Bootstrapped",
+      "monetisation": "Free",
+      "commitment": "Side-project",
+      "category": "SaaS",
+      "founder": "Tomas Vestenicky",
+      "updated on": "Dec 13, 2022"
+    }
+  },
+  {
+    "name": "Marmof",
+    "description": "An AI-powered writing tool that helps you generate content in just a few seconds.",
+    "revenue": "$500/Month",
+    "url": "https://marmof.com",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Solo-founder",
+      "location": "Yerevan, Armenia",
+      "funding": "",
+      "monetisation": "Advertising",
+      "commitment": "Side-project",
+      "category": "AI",
+      "founder": "Manuk Minasyan",
+      "updated on": "Dec 13, 2022"
+    }
+  },
+  {
+    "name": "Mash",
+    "description": "A monetization platform, for all digital builders and creators - completely customizable to fit any business model.",
+    "revenue": "",
+    "url": "https://www.getmash.com",
+    "data": {
+      "launched in": "2021",
+      "no. of founders": "Solo-founder",
+      "location": "Toronto, Canada",
+      "funding": "VC Funded",
+      "monetisation": "Other",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "Jared Nusinoff",
+      "updated on": "Dec 15, 2022"
+    }
+  },
+  {
+    "name": "Dropboard",
+    "description": "A streamlined hiring platform that adds job openings to your About page.",
+    "revenue": "",
+    "url": "https://colinmakessoftware.com",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Solo-founder",
+      "location": "US",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "SaaS",
+      "founder": "Colin Mathews",
+      "updated on": "Dec 21, 2022"
+    }
+  },
+  {
+    "name": "TheInboxClub",
+    "description": "Email marketing for brands that don't do boring.",
+    "revenue": "$6.4k/Month",
+    "url": "http://theinbox.club",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Multiple",
+      "location": "London, UK",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "Productized Service",
+      "founder": "James Copeland",
+      "updated on": "Dec 13, 2022"
+    }
+  },
+  {
+    "name": "pipl AI",
+    "description": "A cold email automation tool that allows you to send outreach from unlimited accounts at no extra cost.",
+    "revenue": "",
+    "url": "https://pipl.ai",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Multiple",
+      "location": "New York, USA",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "Yaroslav Yashnyk",
+      "updated on": "Dec 7, 2022"
+    }
+  },
+  {
+    "name": "Senja",
+    "description": "Senja makes it super easy for your happy customers to leave video and text testimonials.",
+    "revenue": "$2k/Month",
+    "url": "https://www.senja.io",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Multiple",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "Wilson",
+      "updated on": "Jan 31, 2023"
+    }
+  },
+  {
+    "name": "Mixo",
+    "description": "Launch page builder to test and validate your startup ideas.",
+    "revenue": "$1k/mo",
+    "url": "https://www.mixo.io",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Multiple",
+      "location": "Sydney, Australia",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "Adam Arbolino",
+      "updated on": "Dec 7, 2022"
+    }
+  },
+  {
+    "name": "Upbase",
+    "description": "Upbase is an all-in-one project management tool specifically designed for solos and small teams.",
+    "revenue": "",
+    "url": "http://upbase.io",
+    "data": {
+      "launched in": "2021",
+      "no. of founders": "Multiple",
+      "location": "US",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "Tony Pham",
+      "updated on": "Dec 7, 2022"
+    }
+  },
+  {
+    "name": "Formula God",
+    "description": "Talk to Google Sheets with built-in AI.",
+    "revenue": "",
+    "url": "http://formulagod.ai",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Multiple",
+      "location": "Newcastle Upon Tyne, UK",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "AI",
+      "founder": "Andrew Charlton",
+      "updated on": "Nov 30, 2022"
+    }
+  },
+  {
+    "name": "Feather",
+    "description": "Notion to Blog in minutes. Write your content on Notion and Feather automatically publishes it to your own blog.",
+    "revenue": "$1.6k/Month",
+    "url": "https://feather.so",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Solo-founder",
+      "location": "India",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "Bhanu Teja",
+      "updated on": "Nov 30, 2022"
+    }
+  },
+  {
+    "name": "Byldd",
+    "description": "Turn your startup idea into a revenue generating MVP that’s ready for funding.",
+    "revenue": "$50k/Month",
+    "url": "https://byldd.com",
+    "data": {
+      "launched in": "2020",
+      "no. of founders": "Solo-founder",
+      "location": "New York",
+      "funding": "Bootstrapped",
+      "monetisation": "Consulting",
+      "commitment": "Full-time",
+      "category": "Service",
+      "founder": "Ayush Singhvi",
+      "updated on": "Jun 7, 2023"
+    }
+  },
+  {
+    "name": "Uneed",
+    "description": "The best tools on the internet by categories, updated by hand daily.",
+    "revenue": "$400/Month",
+    "url": "https://uneed.best",
+    "data": {
+      "launched in": "2019",
+      "no. of founders": "Solo-founder",
+      "location": "Nantes, FR",
+      "funding": "Bootstrapped",
+      "monetisation": "Advertising",
+      "commitment": "Side-project",
+      "category": "Directory",
+      "founder": "Thomas Sanlis",
+      "updated on": "Jan 31, 2023"
+    }
+  },
+  {
+    "name": "Maildroppa",
+    "description": "The easiest way to write and grow an engaging newsletter for startups.",
+    "revenue": "",
+    "url": "https://maildroppa.com",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Solo-founder",
+      "location": "Munich, Germany",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "SaaS",
+      "founder": "Marcus Biel",
+      "updated on": "Jan 4, 2023"
+    }
+  },
+  {
+    "name": "Brightr",
+    "description": "Brightr is a community exploration and wayfinding platform.",
+    "revenue": "$2.3k/Month",
+    "url": "http://www.brightrtravel.com",
+    "data": {
+      "launched in": "2020",
+      "no. of founders": "Multiple",
+      "location": "New York, USA",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "Travel",
+      "founder": "Matt Mason",
+      "updated on": "Nov 23, 2022"
+    }
+  },
+  {
+    "name": "Upvoty",
+    "description": "User feedback tool to collect and manage all of your feedback in one overview.",
+    "revenue": "$40k/Month",
+    "url": "https://upvoty.com",
+    "data": {
+      "launched in": "2018",
+      "no. of founders": "Solo-founder",
+      "location": "Amsterdam, Netherlands",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "Mike Slaats",
+      "updated on": "Dec 21, 2022"
+    }
+  },
+  {
+    "name": "Markee",
+    "description": "Markee is a low-code video chat tool, that lets you skip building the frontend and add branded video chat to your projects in minutes.",
+    "revenue": "$24k/Month",
+    "url": "http://markee.io",
+    "data": {
+      "launched in": "2020",
+      "no. of founders": "Multiple",
+      "location": "Yorklyn, Delwaware",
+      "funding": "Seed Funded",
+      "monetisation": "",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "Craig Doig",
+      "updated on": "Jan 4, 2023"
+    }
+  },
+  {
+    "name": "ShiftApp",
+    "description": "ShiftApp is an employee scheduling and shift planning software.",
+    "revenue": "$10k/Month",
+    "url": "https://shiftapp.com",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Multiple",
+      "location": "Dallas, TX, USA",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "Jason Lee",
+      "updated on": "Nov 23, 2022"
+    }
+  },
+  {
+    "name": "Consensus",
+    "description": "A search engine that uses AI to find answers in scientific research.",
+    "revenue": "$30k MRR",
+    "url": "http://consensus.app",
+    "data": {
+      "launched in": "2021",
+      "no. of founders": "Multiple",
+      "location": "Boston, MA",
+      "funding": "VC Funded",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "Search Engine",
+      "founder": "Eric Olson",
+      "updated on": "Jun 19, 2023"
+    }
+  },
+  {
+    "name": "EmailEngine",
+    "description": "EmailEngine is an email client for apps. It allows REST API access to IMAP and SMTP accounts and sends webhooks for changes to the monitored email accounts.",
+    "revenue": "$2k/Month",
+    "url": "https://emailengine.app",
+    "data": {
+      "launched in": "2020",
+      "no. of founders": "Solo-founder",
+      "location": "Tallinn, Estonia",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "Andris Reinman",
+      "updated on": "Nov 16, 2022"
+    }
+  },
+  {
+    "name": "Software Engineer Jobs",
+    "description": "Find your perfect remote software engineer job in minutes. We curate the best remote jobs in the U.S. for software engineers.",
+    "revenue": "$400/Month",
+    "url": "https://software-engineer-jobs.com",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Solo-founder",
+      "location": "Chicago, IL",
+      "funding": "Bootstrapped",
+      "monetisation": "Sales & transactions",
+      "commitment": "Side-project",
+      "category": "Job Board",
+      "founder": "Weston Walker",
+      "updated on": "Nov 16, 2022"
+    }
+  },
+  {
+    "name": "heylexi",
+    "description": "Hassle-free copy and content subscriptions for a fixed monthly price.",
+    "revenue": "$10k/Month",
+    "url": "https://heylexi.co",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Solo-founder",
+      "location": "Connecticut, USA",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "Productized Service",
+      "founder": "Milly Barker-DeStefano",
+      "updated on": "Nov 16, 2022"
+    }
+  },
+  {
+    "name": "Moonbeam",
+    "description": "Moonbeam's AI will give you everything you need to write killer long form content.",
+    "revenue": "$5k/Month",
+    "url": "https://gomoonbeam.com",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Solo-founder",
+      "location": "Jacksonville, FL",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "AI",
+      "founder": "John Shahawy",
+      "updated on": "Nov 9, 2022"
+    }
+  },
+  {
+    "name": "HairstyleAI",
+    "description": "Try new hairstyles with AI technology.",
+    "revenue": "$500/Month",
+    "url": "https://www.hairstyleai.com",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Solo-founder",
+      "location": "Remote",
+      "funding": "Bootstrapped",
+      "monetisation": "Sales & transactions",
+      "commitment": "Side-project",
+      "category": "AI",
+      "founder": "Nick Berns",
+      "updated on": "Nov 9, 2022"
+    }
+  },
+  {
+    "name": "ProjectionLab",
+    "description": "The personal finance simulator you've been waiting for.",
+    "revenue": "$9.4k MRR",
+    "url": "https://projectionlab.com",
+    "data": {
+      "launched in": "2021",
+      "no. of founders": "Solo-founder",
+      "location": "Boston, USA",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "Web app",
+      "founder": "Kyle Nolan",
+      "updated on": "Jun 1, 2023"
+    }
+  },
+  {
+    "name": "Founders' Book",
+    "description": "One of the best platform of tools and resources helping founders and early-stage startups.",
+    "revenue": "$2.8k/Month",
+    "url": "https://foundersbook.co",
+    "data": {
+      "launched in": "2021",
+      "no. of founders": "Solo-founder",
+      "location": "Adelaide, Australia",
+      "funding": "Bootstrapped",
+      "monetisation": "Sales & transactions",
+      "commitment": "Full-time",
+      "category": "Other",
+      "founder": "Goutham Bandaru",
+      "updated on": "Nov 7, 2022"
+    }
+  },
+  {
+    "name": "The Couples Company",
+    "description": "The couples company makes products to make relationships more fun.",
+    "revenue": "$2.8k/Month",
+    "url": "http://www.thecouplescompany.com",
+    "data": {
+      "launched in": "2020",
+      "no. of founders": "Solo-founder",
+      "location": "United States",
+      "funding": "Bootstrapped",
+      "monetisation": "Sales & transactions",
+      "commitment": "Side-project",
+      "category": "Other",
+      "founder": "Patrick Frank",
+      "updated on": "Nov 7, 2022"
+    }
+  },
+  {
+    "name": "ProfilePicture.AI",
+    "description": "Create your perfect profile picture with AI.",
+    "revenue": "$50k/Month",
+    "url": "https://www.profilepicture.ai",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Solo-founder",
+      "location": "Remote",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "AI",
+      "founder": "Danny Postma",
+      "updated on": "Nov 15, 2022"
+    }
+  },
+  {
+    "name": "The Crowd List",
+    "description": "Discover startups and companies that are currently allowing anyone to invest!",
+    "revenue": "$36/Month",
+    "url": "https://www.thecrowdlist.com",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Solo-founder",
+      "location": "USA",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "Marketplace",
+      "founder": "Stephanie Hekker",
+      "updated on": "Nov 30, 2022"
+    }
+  },
+  {
+    "name": "Bugpilot",
+    "description": "Bugpilot helps SaaS teams collect detailed technical bug reports from end-users.",
+    "revenue": "$3k MRR",
+    "url": "https://www.bugpilot.io",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Multiple",
+      "location": "Milan, Italy",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "Simone Lusenti",
+      "updated on": "May 31, 2023"
+    }
+  },
+  {
+    "name": "WBE Space",
+    "description": "The WBE Space is an online community for starting bootstrappers.",
+    "revenue": "$550/Month",
+    "url": "https://wannabe-entrepreneur.com",
+    "data": {
+      "launched in": "2021",
+      "no. of founders": "Solo-founder",
+      "location": "Lisbon, Portugal",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "Community",
+      "founder": "Tiago Ferreira",
+      "updated on": "Nov 2, 2022"
+    }
+  },
+  {
+    "name": "Super Send",
+    "description": "Automate sales outreach via email, LinkedIn and Twitter.",
+    "revenue": "$8k/Month",
+    "url": "https://supersend.io",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Solo-founder",
+      "location": "Santa Monica, CA",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "Andrew Pierno",
+      "updated on": "Jun 19, 2023"
+    }
+  },
+  {
+    "name": "Ruti",
+    "description": "Ruti uses bio-energetic testing to help you understand where you body is most stressed and why.",
+    "revenue": "",
+    "url": "https://ruti.life",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Multiple",
+      "location": "Seattle, WA",
+      "funding": "Bootstrapped",
+      "monetisation": "Partnerships",
+      "commitment": "Full-time",
+      "category": "",
+      "founder": "Laura Pearse",
+      "updated on": "Oct 27, 2022"
+    }
+  },
+  {
+    "name": "Cold DM",
+    "description": "Find and connect with potential customers with targeted cold outreach.",
+    "revenue": "$15/Month",
+    "url": "https://www.colddm.me",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Solo-founder",
+      "location": "Chennai, India",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "SaaS",
+      "founder": "Shri Vatz",
+      "updated on": "Oct 27, 2022"
+    }
+  },
+  {
+    "name": "Potion",
+    "description": "Create custom Notion websites in minutes.",
+    "revenue": "$5.8k/Month",
+    "url": "https://potion.so",
+    "data": {
+      "launched in": "2020",
+      "no. of founders": "Solo-founder",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "SaaS",
+      "founder": "Noah Bragg",
+      "updated on": "Jan 16, 2023"
+    }
+  },
+  {
+    "name": "Interior AI",
+    "description": "Interior design mockups and virtual staging using AI.",
+    "revenue": "$5.7k/Month",
+    "url": "https://interiorai.com",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Solo-founder",
+      "location": "Remote",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "AI",
+      "founder": "Pieter Levels",
+      "updated on": "Oct 27, 2022"
+    }
+  },
+  {
+    "name": "Video Husky",
+    "description": "Video Husky is the done-for-you unlimited video editing platform.",
+    "revenue": "$100k/Month",
+    "url": "https://www.videohusky.com",
+    "data": {
+      "launched in": "2018",
+      "no. of founders": "Solo-founder",
+      "location": "Hong Kong",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "Productized Service",
+      "founder": "Justin Tan",
+      "updated on": "Nov 9, 2022"
+    }
+  },
+  {
+    "name": "Create Circus",
+    "description": "Shopify development agency.",
+    "revenue": "$24k/Month",
+    "url": "https://www.createcircus.com",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Solo-founder",
+      "location": "UK",
+      "funding": "Bootstrapped",
+      "monetisation": "Sales & transactions",
+      "commitment": "Full-time",
+      "category": "Agency",
+      "founder": "Oliver Green",
+      "updated on": "Oct 20, 2022"
+    }
+  },
+  {
+    "name": "Cold Email Club",
+    "description": "Cold email copywriting as a service.",
+    "revenue": "$3.5k/Month",
+    "url": "https://www.coldemail.club",
+    "data": {
+      "launched in": "2021",
+      "no. of founders": "Solo-founder",
+      "location": "London, UK",
+      "funding": "Bootstrapped",
+      "monetisation": "Sales & transactions",
+      "commitment": "Side-project",
+      "category": "Productized Service",
+      "founder": "Jaisal Rathee",
+      "updated on": "Nov 16, 2022"
+    }
+  },
+  {
+    "name": "NoCodeAPI",
+    "description": "Build third party applications APIs without code",
+    "revenue": "",
+    "url": "https://nocodeapi.com",
+    "data": {
+      "launched in": "2020",
+      "no. of founders": "Multiple",
+      "location": "Spain",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "Andrew Swiler",
+      "updated on": "Oct 20, 2022"
+    }
+  },
+  {
+    "name": "The Slice",
+    "description": "The Slice promotes bootstrapped startups and writers with thousands of devs, marketers, founders and investors.",
+    "revenue": "$800/Month",
+    "url": "https://theslice.co",
+    "data": {
+      "launched in": "2020",
+      "no. of founders": "Solo-founder",
+      "location": "Amsterdam",
+      "funding": "Bootstrapped",
+      "monetisation": "Advertising",
+      "commitment": "Side-project",
+      "category": "Newsletter",
+      "founder": "Jonas",
+      "updated on": "Oct 20, 2022"
+    }
+  },
+  {
+    "name": "Omni.us",
+    "description": "Write a cold email sequence (for free) and get more clients automatically",
+    "revenue": "$3k/Month",
+    "url": "https://omni.us",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Multiple",
+      "location": "Orlando, FL",
+      "funding": "Seed Funded",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "Alex Berman",
+      "updated on": "Nov 16, 2022"
+    }
+  },
+  {
+    "name": "intribe",
+    "description": "Tinder for brand partnerships and collaborations.",
+    "revenue": "$500/month",
+    "url": "https://intribe.co",
+    "data": {
+      "launched in": "2021",
+      "no. of founders": "Solo-founder",
+      "location": "California, USA",
+      "funding": "Other",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "Marketing",
+      "founder": "Sven Radavics",
+      "updated on": "Oct 20, 2022"
+    }
+  },
+  {
+    "name": "Graphic Plus",
+    "description": "The cheapest unlimited graphic design service.",
+    "revenue": "$527/Month",
+    "url": "https://www.graphicplus.io",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Multiple",
+      "location": "US",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "Productized Service",
+      "founder": "Santhia Roo",
+      "updated on": "Oct 20, 2022"
+    }
+  },
+  {
+    "name": "NotionForms",
+    "description": "Easy to use form builder for Notion.",
+    "revenue": "$13.7k/Month",
+    "url": "https://notionforms.io",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Solo-founder",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "SaaS",
+      "founder": "Julien Nahum",
+      "updated on": "Oct 4, 2022"
+    }
+  },
+  {
+    "name": "Instatus",
+    "description": "Build beautiful status pages quickly with Instatus.",
+    "revenue": "$10k/Month",
+    "url": "https://instat.us",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Solo-founder",
+      "location": "",
+      "funding": "",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "SaaS",
+      "founder": "Ali Salah",
+      "updated on": "Oct 4, 2022"
+    }
+  },
+  {
+    "name": "Snappify",
+    "description": "Easily explain your code and share your knowledge with the rest of the world with beautiful code snippets.",
+    "revenue": "$800/Month",
+    "url": "https://snappify.io",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Solo-founder",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "SaaS",
+      "founder": "Dominik Sumer",
+      "updated on": "Oct 4, 2022"
+    }
+  },
+  {
+    "name": "Typebot",
+    "description": "Open-source conversational forms builder.",
+    "revenue": "$1.9k/Month",
+    "url": "https://typebot.io",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Solo-founder",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "SaaS",
+      "founder": "Baptiste Arnaud",
+      "updated on": "Oct 4, 2022"
+    }
+  },
+  {
+    "name": "ScormHero",
+    "description": "Create Online Courses from Video, PowerPoint or from scratch.",
+    "revenue": "$3.6k/Month",
+    "url": "https://scormhero.com",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Solo-founder",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "SaaS",
+      "founder": "Mauricio Pradella",
+      "updated on": "Oct 2, 2022"
+    }
+  },
+  {
+    "name": "OneSimpleAPI",
+    "description": "The first no-code API designed to save time, money and stress.",
+    "revenue": "$400/Month",
+    "url": "https://onesimpleapi.com",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Solo-founder",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "SaaS",
+      "founder": "",
+      "updated on": "Oct 2, 2022"
+    }
+  },
+  {
+    "name": "Rezi",
+    "description": "AI-powered free resume builder is trusted by thousands of job seekers.",
+    "revenue": "$47k/Month",
+    "url": "https://rezi.io",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Solo-founder",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "",
+      "updated on": "Oct 2, 2022"
+    }
+  },
+  {
+    "name": "ZeroAcquire",
+    "description": "ZeroAcquire is a marketplace to buy and sell micro startups, side projects and MVPs – profitable or pre-revenue. Reach an audience of 12,000+ buyers looking to acquire side projects with potential.",
+    "revenue": "",
+    "url": "https://zeroacquire.com",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Solo-founder",
+      "location": "UK",
+      "funding": "Bootstrapped",
+      "monetisation": "Free",
+      "commitment": "Side-project",
+      "category": "Marketplace",
+      "founder": "Ian Nuttall",
+      "updated on": "Nov 16, 2022"
+    }
+  },
+  {
+    "name": "Paperform",
+    "description": "Paperform is an online form builder that combines serious digital smarts with beautiful design to create endless possibilities.",
+    "revenue": "$218k/Month",
+    "url": "https://paperform.co",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Multiple",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "",
+      "updated on": "Sep 30, 2022"
+    }
+  },
+  {
+    "name": "Designjoy.co",
+    "description": "Design subscriptions to scale your business.",
+    "revenue": "$130k/Month",
+    "url": "https://www.designjoy.co",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Solo-founder",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "Productized Service",
+      "founder": "",
+      "updated on": "Sep 30, 2022"
+    }
+  },
+  {
+    "name": "GMass",
+    "description": "Send mass email campaigns inside of Gmail.",
+    "revenue": "$450k/Month",
+    "url": "https://gmass.co",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Solo-founder",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "",
+      "updated on": "Sep 30, 2022"
+    }
+  },
+  {
+    "name": "Your Heights",
+    "description": "Braincare supplements.",
+    "revenue": "$500k/Month",
+    "url": "https://www.yourheights.com",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Multiple",
+      "location": "",
+      "funding": "",
+      "monetisation": "Sales & transactions",
+      "commitment": "Full-time",
+      "category": "E-commerce",
+      "founder": "",
+      "updated on": "Sep 30, 2022"
+    }
+  },
+  {
+    "name": "WeLoveNoCode",
+    "description": "Hire top no-code and low-code talent to build your MVP.",
+    "revenue": "$140k/Month",
+    "url": "https://www.welovenocode.com",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Solo-founder",
+      "location": "",
+      "funding": "",
+      "monetisation": "",
+      "commitment": "Full-time",
+      "category": "Productized Service",
+      "founder": "",
+      "updated on": "Sep 30, 2022"
+    }
+  },
+  {
+    "name": "Cloud Campaign",
+    "description": "Social media marketing software for digital agencies.",
+    "revenue": "$276k/Month",
+    "url": "https://cloudcampaign.io",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Multiple",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "",
+      "updated on": "Sep 30, 2022"
+    }
+  },
+  {
+    "name": "Lessons Invoicing",
+    "description": "Create and send beautiful invoices from your phone.",
+    "revenue": "$1k/Month",
+    "url": "https://lessonsinvoicing.com",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Solo-founder",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "App",
+      "founder": "",
+      "updated on": "Sep 30, 2022"
+    }
+  },
+  {
+    "name": "Picjumbo",
+    "description": "Download free stock photos, backgrounds and free high-resolution images for personal and commercial use.",
+    "revenue": "$10k/Month",
+    "url": "https://picjumbo.com",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Solo-founder",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "Website",
+      "founder": "",
+      "updated on": "Sep 30, 2022"
+    }
+  },
+  {
+    "name": "Fomo",
+    "description": "Fomo is a simple, automated social proof solution that helps increase sales, trust and credibility.",
+    "revenue": "$83k/Month",
+    "url": "https://www.fomo.com",
+    "data": {
+      "launched in": "2016",
+      "no. of founders": "",
+      "location": "",
+      "funding": "",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "",
+      "updated on": "Sep 30, 2022"
+    }
+  },
+  {
+    "name": "Screenshot API",
+    "description": "Programmatic screenshot of any website in seconds.",
+    "revenue": "$3k/Month",
+    "url": "https://www.screenshotapi.net",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Multiple",
+      "location": "",
+      "funding": "",
+      "monetisation": "Subscriptions",
+      "commitment": "",
+      "category": "SaaS",
+      "founder": "",
+      "updated on": "Sep 30, 2022"
+    }
+  },
+  {
+    "name": "Clean Eating Machine",
+    "description": "Clean Eating Kitchen is a healthy food blog dedicated to easy and delicious recipes.",
+    "revenue": "$20k/Month",
+    "url": "https://www.cleaneatingkitchen.com",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Solo-founder",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "Advertising",
+      "commitment": "Side-project",
+      "category": "Blog",
+      "founder": "",
+      "updated on": "Sep 30, 2022"
+    }
+  },
+  {
+    "name": "Insquad",
+    "description": "Platform to hire senior startup developers globally.",
+    "revenue": "$100k/Month",
+    "url": "https://www.insquad.com",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Solo-founder",
+      "location": "Los Angeles, CA",
+      "funding": "Bootstrapped",
+      "monetisation": "Advertising",
+      "commitment": "Full-time",
+      "category": "",
+      "founder": "",
+      "updated on": "Sep 29, 2022"
+    }
+  },
+  {
+    "name": "Less Annoying CRM",
+    "description": "Simple CRM for Small Businesses",
+    "revenue": "$310k/Month",
+    "url": "https://www.lessannoyingcrm.com",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Multiple",
+      "location": "",
+      "funding": "",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "",
+      "updated on": "Sep 30, 2022"
+    }
+  },
+  {
+    "name": "Blender Market",
+    "description": "The indie market for Blender creators.",
+    "revenue": "$340k/Month",
+    "url": "https://blendermarket.com",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Multiple",
+      "location": "",
+      "funding": "",
+      "monetisation": "",
+      "commitment": "",
+      "category": "Marketplace",
+      "founder": "",
+      "updated on": "Sep 30, 2022"
+    }
+  },
+  {
+    "name": "Baremetrics",
+    "description": "Metrics, dunning, and engagement tools for SaaS & subscription businesses.",
+    "revenue": "$260k/Month",
+    "url": "https://baremetrics.com",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Solo-founder",
+      "location": "",
+      "funding": "",
+      "monetisation": "Subscriptions",
+      "commitment": "",
+      "category": "SaaS",
+      "founder": "",
+      "updated on": "Sep 30, 2022"
+    }
+  },
+  {
+    "name": "GuruHotel",
+    "description": "The Ultimate E-commerce Platform for Hotels",
+    "revenue": "$90k/Month",
+    "url": "https://www.guruhotel.com",
+    "data": {
+      "launched in": "2019",
+      "no. of founders": "Multiple",
+      "location": "",
+      "funding": "",
+      "monetisation": "",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "",
+      "updated on": "Sep 30, 2022"
+    }
+  },
+  {
+    "name": "Thread Creator",
+    "description": "Write and schedule Twitter threads for free.",
+    "revenue": "$2.5k/Month",
+    "url": "https://threadcreator.com",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Solo-founder",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "Free",
+      "commitment": "Side-project",
+      "category": "SaaS",
+      "founder": "",
+      "updated on": "Sep 30, 2022"
+    }
+  },
+  {
+    "name": "Gravity Hopper",
+    "description": "Easy Gravity Forms management. Build once. Use everywhere.",
+    "revenue": "$400/Month",
+    "url": "https://gravityhopper.com",
+    "data": {
+      "launched in": "2020",
+      "no. of founders": "Solo-founder",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "",
+      "category": "SaaS",
+      "founder": "",
+      "updated on": "Sep 30, 2022"
+    }
+  },
+  {
+    "name": "Notion2sheets",
+    "description": "Give Notion the superpowers of Google Sheets.",
+    "revenue": "$2.5k/Month",
+    "url": "https://notion2sheets.com",
+    "data": {
+      "launched in": "2021",
+      "no. of founders": "Solo-founder",
+      "location": "",
+      "funding": "",
+      "monetisation": "Subscriptions",
+      "commitment": "",
+      "category": "SaaS",
+      "founder": "",
+      "updated on": "Sep 30, 2022"
+    }
+  },
+  {
+    "name": "Copylime",
+    "description": "Use our smart AI to write better, more engaging website content, blog articles, social media posts and more.",
+    "revenue": "$100/Month",
+    "url": "https://copylime.com",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Solo-founder",
+      "location": "",
+      "funding": "",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "SaaS",
+      "founder": "",
+      "updated on": "Sep 30, 2022"
+    }
+  },
+  {
+    "name": "Helios",
+    "description": "Text message marketing for small businesses.",
+    "revenue": "$5.6k/Month",
+    "url": "https://sendhelios.com",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Multiple",
+      "location": "",
+      "funding": "",
+      "monetisation": "",
+      "commitment": "",
+      "category": "SaaS",
+      "founder": "",
+      "updated on": "Sep 30, 2022"
+    }
+  },
+  {
+    "name": "FlippedNormals",
+    "description": "The Only Curated CG Marketplace",
+    "revenue": "$30k/Month",
+    "url": "https://flippednormals.com",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Multiple",
+      "location": "",
+      "funding": "",
+      "monetisation": "",
+      "commitment": "",
+      "category": "Marketplace",
+      "founder": "",
+      "updated on": "Sep 30, 2022"
+    }
+  },
+  {
+    "name": "Pirsch Analytics",
+    "description": "Simple, privacy-friendly, cookie-free web analytics.",
+    "revenue": "$1.4k/Month",
+    "url": "https://pirsch.io",
+    "data": {
+      "launched in": "2021",
+      "no. of founders": "Multiple",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "",
+      "updated on": "Sep 30, 2022"
+    }
+  },
+  {
+    "name": "Tweetsmash",
+    "description": "Read your Twitter bookmarks without forgetting.",
+    "revenue": "$500/Month",
+    "url": "https://tweetsmash.com",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Multiple",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "",
+      "commitment": "Side-project",
+      "category": "SaaS",
+      "founder": "",
+      "updated on": "Sep 30, 2022"
+    }
+  },
+  {
+    "name": "Billion Dollar Business Ideas",
+    "description": "Discover pre-validated Billion Dollar Business Ideas you should steal for your next project.",
+    "revenue": "",
+    "url": "https://www.billiondollarbusinessideas.substack.com",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Solo-founder",
+      "location": "UK",
+      "funding": "Bootstrapped",
+      "monetisation": "",
+      "commitment": "Side-project",
+      "category": "Content",
+      "founder": "",
+      "updated on": "Nov 16, 2022"
+    }
+  },
+  {
+    "name": "Dailytics",
+    "description": "Beautiful and simple analytics email report digest.",
+    "revenue": "$90/Month",
+    "url": "https://dailytics.com",
+    "data": {
+      "launched in": "2016",
+      "no. of founders": "Solo-founder",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "",
+      "founder": "",
+      "updated on": "Sep 28, 2022"
+    }
+  },
+  {
+    "name": "RankedVote",
+    "description": "Ranked choice voting polls on any device",
+    "revenue": "$2k/Month",
+    "url": "https://www.rankedvote.co",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Solo-founder",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "",
+      "category": "SaaS",
+      "founder": "",
+      "updated on": "Sep 30, 2022"
+    }
+  },
+  {
+    "name": "One Day Design",
+    "description": "Get a web page design in 24 hours.",
+    "revenue": "$17.k/Month",
+    "url": "https://oneday.design",
+    "data": {
+      "launched in": "",
+      "no. of founders": "",
+      "location": "",
+      "funding": "",
+      "monetisation": "",
+      "commitment": "",
+      "category": "Productized Service",
+      "founder": "",
+      "updated on": "Jun 20, 2023"
+    }
+  },
+  {
+    "name": "Mavenseed",
+    "description": "Grow your audience and send anything.",
+    "revenue": "$2k/Month",
+    "url": "https://mavenseed.com",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Solo-founder",
+      "location": "Remote",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Side-project",
+      "category": "SaaS",
+      "founder": "",
+      "updated on": "Sep 30, 2022"
+    }
+  },
+  {
+    "name": "Taplio",
+    "description": "The all-in-one tool for LinkedIn growth. Create better LinkedIn content, schedule your posts at the right time, build new relationships and monitor all your results.",
+    "revenue": "$50k/Month",
+    "url": "https://www.taplio.com",
+    "data": {
+      "launched in": "2022",
+      "no. of founders": "Multiple",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "Tibo",
+      "updated on": "Dec 13, 2022"
+    }
+  },
+  {
+    "name": "Bank Converter",
+    "description": "Easily convert PDF bank statements from 100s of banks world wide into clean Excel (XLS) format.",
+    "revenue": "$6k/Month",
+    "url": "https://bankstatementconverter.com",
+    "data": {
+      "launched in": "2021",
+      "no. of founders": "Solo-founder",
+      "location": "",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "SaaS",
+      "founder": "",
+      "updated on": "Sep 30, 2022"
+    }
+  },
+  {
+    "name": "Cyber Leads",
+    "description": "1,000+ handpicked companies that just raised millions and are looking to outsource. In your inbox. Every single month.",
+    "revenue": "$30k/Month",
+    "url": "https://www.getcyberleads.com",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Solo-founder",
+      "location": "Italy",
+      "funding": "Bootstrapped",
+      "monetisation": "Subscriptions",
+      "commitment": "Full-time",
+      "category": "Newsletter/Productized Service",
+      "founder": "",
+      "updated on": "Nov 16, 2022"
+    }
+  },
+  {
+    "name": "Japan Dev",
+    "description": "Hand-picked jobs for software developers and tech folk in Japan",
+    "revenue": "$60k/Month",
+    "url": "https://japan-dev.com",
+    "data": {
+      "launched in": "",
+      "no. of founders": "Solo-founder",
+      "location": "Japan",
+      "funding": "Bootstrapped",
+      "monetisation": "Advertising",
+      "commitment": "Full-time",
+      "category": "Job-board",
+      "founder": "Eric Turner",
+      "updated on": "Jun 10, 2023"
+    }
+  }
+]
